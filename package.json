@@ -1,6 +1,6 @@
 {
   "name": "nightmare-xpath-event",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Nightmare extra events by xpath expressions",
   "main": "lib/nightmare-xpath-event.js",
   "scripts": {
