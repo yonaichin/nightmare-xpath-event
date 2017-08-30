@@ -1,4 +1,4 @@
-const touch = (xpath, done) => {
+const touch = function (xpath, done) {
   this.evaluate_now(function (xpath, done) {
     const ele = window.document.evaluate(xpath,
                       window.document,

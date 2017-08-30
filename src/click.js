@@ -1,4 +1,4 @@
-const clickByXpath = (xpath, done) => {
+const clickByXpath = function (xpath, done) {
   this.evaluate_now(function (xpath, done) {
     const ele = window.document.evaluate(xpath,
                       window.document,
