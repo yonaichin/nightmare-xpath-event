@@ -35,5 +35,9 @@
     "url": "https://github.com/yonaichin/nightmare-xpath-event/issues"
   },
   "homepage": "https://github.com/yonaichin/nightmare-xpath-event",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "url": "https://github.com/yonaichin/nightmare-xpath-event.git",
+    "type": "git"
+  }
 }
